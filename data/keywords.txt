@@ -1,0 +1,17 @@
+ffmpeg command explained
+ffmpeg convert video
+ffmpeg extract audio
+ffmpeg resize video
+curl command explained
+curl post request example
+curl get request example
+curl headers example
+grep command explained
+grep search text
+grep options list
+awk command examples
+sed command explained
+sed replace text
+docker run command explained
+docker exec command explained
+docker build command explained

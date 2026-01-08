@@ -1,0 +1,10 @@
+ffmpeg command explained
+ffmpeg convert video
+curl command examples
+curl post request example
+grep command explained
+grep search text
+awk command examples
+sed command explained
+docker run command
+docker exec command
